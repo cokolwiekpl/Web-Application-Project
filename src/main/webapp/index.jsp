@@ -3,6 +3,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Wine blog platform</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Wine blog platform</h1>
@@ -11,7 +12,7 @@
             <li><a href = "../DatabaseServlets/Posts">Forum</a></li>
              <!--<li><a href = "../DatabaseServlets/User">Users</a> </li>!-->
             <li><a>Contact</a></li>
-            <li><a>Shop</a></li>
+            <li><a href="shop.html">Shop</a></li>
             <li><a href = "../DatabaseServlets/Login">Profile</a></li>
         </ul>
     </nav>
