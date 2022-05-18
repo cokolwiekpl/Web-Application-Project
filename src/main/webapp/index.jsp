@@ -16,6 +16,7 @@
         </ul>
     </nav>
     <section>
+        <h2>About us</h2>
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorum voluptas accusamus non, mollitia, voluptates, magni sequi molestiae quos repellendus blanditiis labore culpa reiciendis repudiandae iure eligendi neque assumenda ratione doloribus exercitationem quasi aperiam quam. Corporis adipisci recusandae quaerat commodi accusantium architecto, vero, illo iure alias magni officiis rem. Dolor.   
         </p>
