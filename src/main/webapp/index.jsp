@@ -14,6 +14,7 @@
             <li><a>Contact</a></li>
             <li><a href="shop.html">Shop</a></li>
             <li><a href = "../DatabaseServlets/Login">Profile</a></li>
+            <li><a href ="MemberRegistration.jsp">Register</li>
         </ul>
     </nav>
     <section>
