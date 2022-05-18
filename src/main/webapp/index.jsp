@@ -1,17 +1,25 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Wine blog platform</title>
 </head>
 <body>
- <a href = "../DatabaseServlets/Posts">Forum</a>
- <!--<a href = "../DatabaseServlets/User">Users</a> !-->
- <a>Contact</a>
- <a>Shop</a>
- <a>About Us</a>
- <a href = "../DatabaseServlets/Login">Profile</a>
+    <h1>Wine blog platform</h1>
+    <nav>
+        <ul>
+            <li><a href = "../DatabaseServlets/Posts">Forum</a></li>
+             <!--<li><a href = "../DatabaseServlets/User">Users</a> </li>!-->
+            <li><a>Contact</a></li>
+            <li><a>Shop</a></li>
+            <li><a href = "../DatabaseServlets/Login">Profile</a></li>
+        </ul>
+    </nav>
+    <section>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorum voluptas accusamus non, mollitia, voluptates, magni sequi molestiae quos repellendus blanditiis labore culpa reiciendis repudiandae iure eligendi neque assumenda ratione doloribus exercitationem quasi aperiam quam. Corporis adipisci recusandae quaerat commodi accusantium architecto, vero, illo iure alias magni officiis rem. Dolor.   
+        </p>
+    </section>
  
  
 
