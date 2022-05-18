@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Wine blog platform</title>
+</head>
+<body>
+    <h1>Work in progres</h1>
+    <section>
+        <img src="kotek.png" alt="kot">
+    </section>
+    
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        section{
+            width: 300px;
+            height: 300px;
+            overflow: hidden ;
+            margin-left: 39%;
+        }
+        img{
+            animation: cat 2s infinite linear;
+        }
+        h1{
+            text-align: center;
+            line-height: 100px;
+        }
+        @keyframes cat {
+            0%{
+                transform: translateX(0px);
+            }
+            23%{
+                opacity: 100%;;
+            }
+            24%{
+                transform: translateX(0px);
+                opacity: 0;
+            }
+            25%{
+                transform: translateX(-300px); 
+                opacity: 0;   
+            }
+            26%{
+                opacity: 100%;
+            }
+            47%{
+                opacity: 100%;
+            }
+            48%{
+                opacity: 0;
+            }
+            49%{
+                transform: translateX(-300px);
+            }
+            50%{
+                transform: translateX(-600px);
+                opacity: 0;
+            }
+            51%{
+                opacity: 100%;
+            }
+            73%{
+                opacity: 100%;
+            }
+            74%{
+                transform: translateX(-600px);
+                opacity: 0;
+            }
+            75%{
+               transform: translateX(-900px);
+               opacity: 0;
+            }
+            76%{
+                opacity: 100%;
+            }
+            99%{
+                opacity: 100%;
+            }
+            100%{
+                transform: translateX(-900px);
+                opacity: 0;
+            }
+            
+        }
+    </style>
+    
+</body>
+</html>
